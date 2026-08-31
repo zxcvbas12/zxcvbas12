@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Ji Ho Nam 👋
 
-<!--
-**zxcvbas12/zxcvbas12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Test Engineer at Samsung Electronics Canada, building Python/AI-assisted
+automation (Claude Code) to eliminate repetitive manual work.
 
-Here are some ideas to get you started:
+- 🔭 Currently: hardware/software validation, wireless network
+  diagnostics (QXDM), and internal tooling at Samsung
+- 🛠 Recently shipped: [STRATA](https://github.com/zxcvbas12/3d-simulator) —
+  an interactive 3D exploded-view learning platform (React Three Fiber)
+- 📊 Also building: statistical-arbitrage research
+  ([pairs-trading-quant](https://github.com/zxcvbas12/pairs-trading-quant))
+  and a solo-advisor SaaS MVP ([advisor-os](https://github.com/zxcvbas12/advisor-os))
+- 🌱 Background: Computer Programming Diploma, Seneca Polytechnic
+  (President's Honour List, GPA 3.7/4.0)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** Python · TypeScript/React · PowerShell · Git
+
+📫 wlgh0123456@gmail.com · [LinkedIn](https://www.linkedin.com/in/ji-ho-nam-a68990242)
