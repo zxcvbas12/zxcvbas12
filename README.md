@@ -22,4 +22,4 @@ automation (Claude Code) to eliminate repetitive manual work.
 
 **Stack:** Python · TypeScript/JavaScript · SQL (PostgreSQL) · React · REST APIs · PowerShell · Git
 
-📫 wlgh0123456@gmail.com · [LinkedIn](https://www.linkedin.com/in/ji-ho-nam-a68990242)
+📫 wlgh0123456@gmail.com · [LinkedIn](https://www.linkedin.com/in/ji-ho-nam)
